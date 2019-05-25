@@ -1,7 +1,4 @@
-#节点列表
-########
 #限制4天 速率5M 130人同时在线 流量100G
-
 ssr://NDUuMTIuMjA0LjIxMzo2MTIwMDpvcmlnaW46bm9uZTpwbGFpbjpjMmhoY21V
 
 #限制4天 速率7M 80人同时在线 流量200G
