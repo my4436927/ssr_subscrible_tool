@@ -1,5 +1,3 @@
-#限制4天 速率5M 130人同时在线 流量100G
+#限制4天 速率 流量限制
 ssr://NDUuMTIuMjA0LjIxMzo2MTIwMDpvcmlnaW46bm9uZTpwbGFpbjpjMmhoY21V
-
-#限制4天 速率7M 80人同时在线 流量200G
 ssr://NDUuMTIuMjA0LjIxMzo2NTUwMDpvcmlnaW46Y2hhY2hhMjA6cGxhaW46T1RFd05qRXpPRFl3
