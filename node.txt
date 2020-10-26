@@ -1,3 +1,2 @@
-#限制4天 速率 流量限制
-ssr://NDUuMTIuMjA0LjIxMzo2MTIwMDpvcmlnaW46bm9uZTpwbGFpbjpjMmhoY21V
-ssr://NDUuMTIuMjA0LjIxMzo2NTUwMDpvcmlnaW46Y2hhY2hhMjA6cGxhaW46T1RFd05qRXpPRFl3
+#live.bilibili.2252663
+ssr://NDUuMTEuMC4xNTQ6MjM1Njg6b3JpZ2luOmFlcy0xMjgtY2ZiOnBsYWluOk1UVllZWE5rVEZOM1FR
